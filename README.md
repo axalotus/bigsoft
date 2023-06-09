@@ -1,4 +1,4 @@
 # bigsoft
-winows 12 for nedohakers
+winows 12 for nedoha
 
-скачать
+ https://axalotus.github.io/bigsoft/
